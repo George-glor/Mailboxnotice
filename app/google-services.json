@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "539394945742",
+    "project_id": "postbox-notify-android",
+    "storage_bucket": "postbox-notify-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539394945742:android:fee586efeeb448574d969f",
+        "android_client_info": {
+          "package_name": "com.example.linespotting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKn17MrqdesQ3zxMMfkOh1I0suJDmPcEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539394945742:android:5b53b82c87f7ac384d969f",
+        "android_client_info": {
+          "package_name": "com.mailbox.notice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKn17MrqdesQ3zxMMfkOh1I0suJDmPcEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
